@@ -13,7 +13,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-appstudio-qe/test-images-protected@sha256:73be3cf224a4aa9233de281e106e5e2fd4cbe6d912aa8a865e14c72dc4448474
+      - image: quay.io/redhat-appstudio-qe/test-images-protected@sha256:35deef0cd06ac9fdb75d4f1eb4babbe58f64f7db23a59e1ba3738fef1cc4244b
         name: my-java-quarkus
         resources: {}
 status: {}
